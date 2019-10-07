@@ -1,0 +1,6 @@
+[package]
+name = "programmer_math"
+version = "0.1.0"
+authors = ["Leonard Souza <hey@leonardsouza.com>"]
+
+[dependencies]
