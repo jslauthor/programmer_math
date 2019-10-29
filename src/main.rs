@@ -1,5 +1,6 @@
-mod math;
+extern crate polynomial;
+pub use polynomial::*;
 
 fn main() {
-    math::utils::test();
+  // println!("{}", Polynomial::new(vec![-1, 2, 5, 3, 13, 9]).pretty("x"));
 }
